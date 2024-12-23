@@ -130,6 +130,7 @@ a {
 .register-btn {
   color: #ffffff !important;
   background-color: var(--bg-primary);
+  margin-left: .8rem;
 }
 
 /*--------------------------------------------------------------
