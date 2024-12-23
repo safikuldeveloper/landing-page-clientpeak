@@ -730,6 +730,12 @@ a {
   background-color: #e55500;
 }
 
+@media (max-width: 576px) {
+  .subscribe-button {
+    padding: 9px 8px;
+ }
+}
+
 .social-list li {
   width: 40px;
   height: 40px;
